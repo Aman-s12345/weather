@@ -10,7 +10,8 @@
 
 
  2. Add you own API_KEY in env file
-   ![Main Page](https://openweathermap.org/api)
+  :rocket: [Link to website][https://openweathermap.org/api]
+    
 
 ![Main Page](image/weather_intern_1.png)
 # Express Weather API
