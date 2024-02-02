@@ -1,6 +1,17 @@
 
 # Weather App
 
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Aman-s12354/weather.git
+
+
+ 2. Add you own API_KEY in env file
+   ![Main Page](https://openweathermap.org/api)
+
 ![Main Page](image/weather_intern_1.png)
 # Express Weather API
 
@@ -15,9 +26,3 @@ The Express Weather API is a simple Node.js application that provides real-time 
 - Provides an easy-to-use endpoint for retrieving weather information.
 - ![Main Page](image/weather_intern_3.png)
 
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/Aman-s12354/weather.git
