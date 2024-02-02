@@ -20,4 +20,4 @@ The Express Weather API is a simple Node.js application that provides real-time 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/express-weather-api.git
+   git clone https://github.com/Aman-s12354/weather.git
